@@ -10,7 +10,7 @@ public class VehiclesMain {
 		ToyotaVios Toyota_VIOS = new ToyotaVios();
 		
 		Toyota_VIOS.speed = 140;
-		Toyota_VIOS.color = "Pearl White";
+		Toyota_VIOS.color = "White";
 		Toyota_VIOS.price = 1500000 ;
 		System.out.println(Toyota_VIOS.speed + "km/h");
 		System.out.println(Toyota_VIOS.color);
@@ -27,7 +27,7 @@ public class VehiclesMain {
 		U_2_Spy_Plane U2_Spy_Plane = new U_2_Spy_Plane();
 		
 		U2_Spy_Plane.speed = 850;
-		U2_Spy_Plane.color = "Black";
+		U2_Spy_Plane.color = "White";
 		U2_Spy_Plane.price = 62000000;
 		System.out.println(U2_Spy_Plane.speed + "km/h");
 		System.out.println(U2_Spy_Plane.color);
@@ -44,7 +44,7 @@ public class VehiclesMain {
 		FandagoYacht Yacht = new FandagoYacht();
 		
 		Yacht.speed = 60;
-		Yacht.color = "Blue";
+		Yacht.color = "White";
 		Yacht.price = 300000;
 		System.out.println(Yacht.speed + "km/h");
 		System.out.println(Yacht.color);
