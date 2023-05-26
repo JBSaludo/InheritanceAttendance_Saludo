@@ -1,7 +1,7 @@
 package Inheritance;
 
 public class FandagoYacht extends Vehicles {
-String MainsailColor = "Black";
+String MainsailColor = "White";
 	
 	void Float() {
 		System.out.println("The boat is sailing");
